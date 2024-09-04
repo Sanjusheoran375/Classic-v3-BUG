@@ -1,5 +1,5 @@
 /*
-› Create By zetsubo
+› Create By sanju-the-rock
 › Base Ori zetsubo
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA & ZetsuboXygen */
@@ -130,7 +130,7 @@ classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: 
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Terima Kasih Sudah Bergabung Jangan Lupa Baca Deskripsi Yah
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/254742491666`})
+Creator : https://wa.me/919728714060`})
 } else if (anu.action == 'remove') {
 classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Karena Untuk Setiap Ucapan Selamat Datang Akan Selalu Diakhiri Dengan Ucapan Selamat Tinggal 👋
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
